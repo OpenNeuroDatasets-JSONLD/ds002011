@@ -1,8 +1,0 @@
-{
-    "Title": Neuromelanin-sensitive weighted images
-    "Description": "These are fast spin echo sequences that help delineate the locus coeruleus. This sequence is sensitive to neuromelanin signal, a chemical stored in LC neurons, thereby creating a higher contrast-to-noise ratio between LC and neighboring tissue.",
-    "RepetitionTime": .75,
-    "EchoTime": 0.012,
-    "FlipAngle": 120,
-    "InstitutionName": "University of Southern California",
-}
