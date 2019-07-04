@@ -1,7 +1,7 @@
 {
     "Name": "Locus coeruleus activity strengthens prioritized memories under arousal",
     "BIDSVersion": "1.0.2",
-    "License": "PD",
+    "License": "This dataset is made available under the Public Domain Dedication and License v1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike Community Norms (http://www.opendatacommons.org/norms/odc-by-sa/).",
     "Authors": [
         "David Clewett",
         "Ringo Huang",
@@ -14,6 +14,5 @@
         "University of Southern California Endowed Fellowship and Federal NIH grant R01AG025340"
     ],
     "References and Links": "https://www.ncbi.nlm.nih.gov/pubmed/29301874",
-    "DOI": "10.1523/JNEUROSCI.2097-17.2017",
-    "DatasetDOI": "10.18112/openneuro.ds002011.v1.0.0"
+    "DOI": "10.1523/JNEUROSCI.2097-17.2017"
 }
